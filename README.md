@@ -1,4 +1,4 @@
-# Data Science & Machine Learning 2021 - 2022
+# Machine Learning & Data Engineering 2021 - 2022
 
 Prior bootcamp notebooks and in class work for the MLDE module 21-22.
 
