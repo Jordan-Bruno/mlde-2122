@@ -1,10 +1,10 @@
 # Data Science & Machine Learning 2021 - 2022
 
-Student pre-work for the DSML module 21-22.
+Prior bootcamp notebooks and in class work for the MLDE module 21-22.
 
 ## Description
 
-Pre-work for students enrolled in the DSML 21-22 module on the e-BM course. Python Notebooks covering the fundamentals of the Python programming language and the pandas software library.
+Bootcamp notebooks and in class work for students enrolled in the MLDE 21-22 module on the e-BM course.
 
 ## Getting Started
 
